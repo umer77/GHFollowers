@@ -24,7 +24,7 @@ A user can see the list of followers of the username entered in the Search Scree
 <img src="/Images/Followers.png" width="250">
 
 ## Favorites
-User can see the favorited user on the second tab.
+User can see the favorited user on the second tab. You can swipe to delete the user from favorite list.
 ### Favorites Screen
 <img src="/Images/Favorites.png" width="250">
 

@@ -16,22 +16,22 @@ This project demonstrates a hands-on experience in creating UI programmatically.
 ## Search
 A user can enter the GitHub username to look for their followers.
 ### Search Screen
-![](/Images/Search.png)
+<img src="/Images/Search.png" width="250">
 
 ## Followers
 A user can see the list of followers of the username entered in the Search Screen. User can search or filter the users from the search bar. User can also mark the current user as favorite by using the plus button in the upper right corner. 
 ### Followers Screen
-![](/Images/Followers.png)
+<img src="/Images/Followers.png" width="250">
 
 ## Favorites
 User can see the favorited user on the second tab.
 ### Favorites Screen
-![](/Images/Favorites.png)
+<img src="/Images/Favorites.png" width="250">
 
 ## User Profile
 User can see the profile of any follower by selecting it.
 ### User Profile Screen
-![](/Images/Profile.png)
+<img src="/Images/Profile.png" width="250">
 
 
 # How To Run
